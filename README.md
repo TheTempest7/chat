@@ -1,2 +1,2 @@
 # chat
-attempt to build chat 
+full stack shat
